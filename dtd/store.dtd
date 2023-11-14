@@ -1,0 +1,6 @@
+<!ELEMENT store (item+)>
+<!ELEMENT item (descripcion, precio)>
+<!ATTLIST item type CDATA "StreamPack">
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ATTLIST precio divisa CDATA "&#8364;">

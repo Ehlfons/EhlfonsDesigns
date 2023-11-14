@@ -1,0 +1,174 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "HelveticaNowDisplay";
+  background-color: #07101D;
+  margin: 0;
+  padding-top: 8px;
+}
+
+svg {
+  max-width: 150px;
+  display: flex;
+  fill: white;
+  /*background-color: red;*/
+  margin-bottom: 5px;
+}
+
+.mod_red {
+  fill: #FF0036;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  /*background-color: rgb(101, 187, 187);*/
+  width: 93%;
+  padding-top: 25px;
+  margin: auto;
+}
+
+.icono {
+  font-size: 35px;
+  display: flex;
+  align-items: center;
+  color: white;
+  cursor: pointer;
+  /*background-color: blue;*/
+}
+
+.icono i {
+  color: #FFFFFF;
+}
+
+.icono i:nth-child(1) {
+  margin-left: 15px;
+}
+
+.btnRojo{
+  border-radius: 20px;
+  background-color: rgb(243, 154, 154);
+}
+
+.btnVerde{
+  border-radius: 20px;
+  background-color: #acecb9;
+}
+
+h1 {
+  color: #FFFFFF;
+}
+
+h2 {
+  color: #FFFFFF;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.contenedor {
+  width: 60%;
+  margin: 0 auto 40px;
+}
+
+.formulario {
+  /* background-color: #191f27; */
+  padding-bottom: 0.1em;
+}
+
+label {
+  color: #FFFFFF;
+}
+
+input#experienciaUsuario {
+  width: 160px;
+}
+
+input {
+  display: block;
+  margin-bottom: 1.5em;
+  margin-top: 3px;
+  padding: 1em;
+  background-color: #dadada;
+  color: rgb(0, 0, 0);
+}
+
+input:not([type="range"]):not([type="submit"]):not([type="reset"]){
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+}
+
+.centrar {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.genero {
+  color: #FFFFFF;
+  display: flex;
+  width: 90%;
+  max-width: 16em;
+  margin-top: 1em;
+}
+
+.botones {
+  display: flex;
+  width: auto;
+}
+
+select {
+  margin-top: 5px;
+  display: block;
+}
+
+.boton {
+  font-weight: bold;
+  font-size: 1em;
+  margin-top: 1em;
+  padding: 10px;
+  text-align: center;
+  margin-right: 0.5em;
+  width: auto;
+  border: 2px solid rgb(0, 0, 0);
+  color: black;
+}
+
+.btnVerde:focus{
+  background-color: greenyellow;
+}
+
+.btnRojo:focus{
+  background-color: red;
+}
+
+.boton{
+  cursor: pointer;
+}
+
+input:focus{
+  background-color: rgba(216, 255, 224, 0.6);
+}
+
+
+input:invalid:focus{
+  background:rgba(255, 197, 198, 0.6);
+}
+
+footer {
+  position: relative;
+  bottom: 0px;
+  width: 100%;
+  padding: 10px 0;
+  font-size: 12px;
+  color: #576479;
+  background-color: #050913;
+}
+
+footer>p {
+  width: 93%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}

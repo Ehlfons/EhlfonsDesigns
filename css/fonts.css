@@ -1,0 +1,44 @@
+@font-face {
+  font-family: HelveticaNowDisplay;
+  src: url(../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Regular.ttf);
+}
+
+@font-face {
+  font-family: HelveticaNowDisplayBold;
+  src: url(../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Bold.ttf);
+}
+
+@font-face {
+  font-family: HelveticaNowDisplayThin;
+  src: url(../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Thin.ttf);
+}
+
+@font-face {
+  font-family: HelveticaNowDisplayLight;
+  src: url(../fonts/HelveticaNowDisplay/HelveticaNowDisplay-Light.ttf);
+}
+
+@font-face {
+  font-family: TTNorms;
+  src: url(../fonts/TTNorms/TTNorms-Regular.otf);
+}
+
+@font-face {
+  font-family: TTNormsBold;
+  src: url(../fonts/TTNorms/TTNorms-Bold.otf);
+}
+
+@font-face {
+  font-family: TTNormsBlack;
+  src: url(../fonts/TTNorms/TTNorms-Black.otf);
+}
+
+@font-face {
+  font-family: TTLakesNeue;
+  src: url(../fonts/TTLakesNeue/TTLakesNeue-Regular.otf);
+}
+
+@font-face {
+  font-family: TTLakesNeueBold;
+  src: url(../fonts/TTLakesNeue/TTLakesNeue-Bold.otf);
+}

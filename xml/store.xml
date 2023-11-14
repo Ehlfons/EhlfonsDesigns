@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE store SYSTEM "../dtd/store.dtd">
+<store>
+    <item type = "StreamPack">
+        <descripcion>Scythe Stream Package</descripcion>
+        <precio divisa = "&#8364;">25</precio>
+    </item>
+    <item type = "StreamPack">
+        <descripcion>Execute Stream Package</descripcion>
+        <precio divisa = "&#8364;">20</precio>
+    </item>
+    <item type = "StreamPack">
+        <descripcion>Radiate Stream Package</descripcion>
+        <precio divisa = "&#8364;">25</precio>
+    </item>
+    <item type = "StreamPack">
+        <descripcion>Charm Stream Package</descripcion>
+        <precio divisa = "&#8364;">25</precio>
+    </item>
+    <item type = "StreamPack">
+        <descripcion>Fifa Stream Package</descripcion>
+        <precio divisa = "&#8364;">20</precio>
+    </item>
+        <item type = "StreamPack">
+        <descripcion>Boosted Stream Package</descripcion>
+        <precio divisa = "&#8364;">25</precio>
+    </item>
+        <item type = "StreamPack">
+        <descripcion>Frost Stream Package</descripcion>
+        <precio divisa = "&#8364;">25</precio>
+    </item>
+        <item type = "StreamPack">
+        <descripcion>Cycle Stream Package</descripcion>
+        <precio divisa = "&#8364;">20</precio>
+    </item>
+        <item type = "StreamPack">
+        <descripcion>Vertex Stream Package</descripcion>
+        <precio divisa = "&#8364;">25</precio>
+    </item>
+        <item type = "StreamPack">
+        <descripcion>Toxic Stream Package</descripcion>
+        <precio divisa = "&#8364;">25</precio>
+    </item>
+        <item type = "StreamPack">
+        <descripcion>Vibrant Stream Package</descripcion>
+        <precio divisa = "&#8364;">20</precio>
+    </item>
+        <item type = "StreamPack">
+        <descripcion>Neon Stream Package</descripcion>
+        <precio divisa = "&#8364;">25</precio>
+    </item>
+</store>
